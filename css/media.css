@@ -1,0 +1,173 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {   
+    .section{
+        height: 500px;
+        width: 100%;
+        background: #000 url(../img/8e0X8.jpeg) center center no-repeat;
+        background-size: cover;
+        /* margin-bottom: 10px; */
+    }
+    .header{
+        height: 60px;
+    }
+    .line{
+        display: none;
+    }
+    .link{
+            text-align: right;
+            font-size: 16px;
+    }
+    .link1{
+        margin: 10px;
+    }
+    .header .icon .icon1{
+        font-size: 20px;
+        color: #fff;
+    }
+    .parent .h1{
+        font-size: 25px;
+        color: rgb(27, 27, 129);
+        margin-bottom: 15px;
+        text-align: center;
+        text-decoration: underline;
+    }
+    .col .p1{
+        color: rgb(10, 10, 73);
+        /* margin-top: 25px; */
+        text-align: right;
+        font-size: 15px;
+        word-spacing: 5px;
+    }
+    .parent{
+        height: 170px;
+    }
+    .parent .col .icon2{
+        font-size: 18px;
+        color: rgb(27, 27, 129);
+        margin: 5px;
+    }
+    .services .h2{
+        font-size: 25px;
+        color: rgb(27, 27, 129);
+        text-align: center;
+        text-decoration: underline;
+    }
+    .dservices{
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .dservices .img{
+        width: 150px; 
+        height: 150px;
+    }
+    .services .div .head{
+        font-size: 18px;
+        color: rgb(27, 27, 129);
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .services .div{
+        margin: 30px;
+    }
+    .Location .head2{
+        /* margin-top: 20px; */
+        font-size: 25px;
+        color: rgb(27, 27, 129);
+        text-align: center;
+        text-decoration: underline;
+        margin-bottom: 15px;
+    }
+    .services{
+        height: 730px;
+        background-color: rgb(223, 219, 219);
+        /* padding-right: 30px; */
+    }
+    .footer .background .back .backend{
+        direction: rtl;
+        margin-left: 45px;
+        margin-right: 0px;
+    }
+    .footer .background .back .backend .hh{
+        color: #fff;
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .footer .background .back .content .hh{
+        font-size: 20px;
+    }
+    .footer .background .back .contactus .hh{
+        font-size: 20px;
+
+    }
+    .footer .background .back .backend .pp{
+        color: #fff;
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .footer .background .back .backend .face, .insta, .twitt{
+        color: #fff;
+        font-size: 15px;
+        margin: 5px;
+    }
+    .footer .end .end1{
+        text-align: center;
+        color: #fff;
+        font-size: 15px;
+        word-spacing: 10px;
+    }
+    .content .list{
+        color: #fff;
+        font-size: 15px;
+    }
+        .contactus .text{
+            width: 100%;
+            height: 25px;
+            font-size: 15px;
+            padding-right: 10px;
+            margin-bottom: 5px;
+            border-radius: 5px;
+            border: 2px solid #000;
+        }
+        .contactus .textarea{
+            width: 100%;
+            height: 60px;
+            font-size: 15px;
+            padding-right: 10px;
+            border-radius: 5px;
+            border: 2px solid #000;
+        }
+        .contactus .btn{
+            width: 100%;
+            height: 30px;
+            font-size: 15px;
+            border-radius: 5px;
+            border: 2px solid #000;
+        }
+        .contactus .btn:hover{
+            color: #fff;
+            background-color: rgb(17, 17, 146);
+            border: 1px solid #fff;
+        }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}

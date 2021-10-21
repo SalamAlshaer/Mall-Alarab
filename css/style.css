@@ -1,0 +1,257 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(27, 27, 129);
+    padding: 25px;
+    position: fixed;
+}
+.icon{
+    float: left;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+.header .icon .icon1{
+    font-size: 28px;
+    color: #fff;
+}
+.link{
+    text-align: right;
+    font-size: 25px;
+}
+.link1{
+    height: 80px;
+}
+.link1:hover{
+    color: rgb(27, 27, 129);
+    background-color: #fff;
+}
+.section{
+    height: 500px;
+    background: #000 url(../img/8e0X8.jpeg) center center no-repeat;
+    background-size: cover;
+    /* margin-bottom: 10px; */
+}
+.parent{
+    padding: 10px;
+    background-color: rgb(223, 219, 219);
+    height: 200px;
+}
+.parent .h1{
+    font-size: 30px;
+    color: rgb(27, 27, 129);
+    margin-bottom: 15px;
+    text-align: center;
+    text-decoration: underline;
+}
+.parent .col{
+    float: left;
+    height: 100px;
+    width: 32.333%;
+    border: 1px solid rgb(27, 27, 129);
+    border-radius: 10px;
+    padding-right: 20px;
+}
+.parent .col .icon2{
+    font-size: 25px;
+    color: rgb(27, 27, 129);
+    margin: 5px;
+}
+.parent .col:hover{
+    background-color: rgb(27, 27, 129);
+    border: 4px solid #fff;
+}
+.parent .col:hover .p1{
+    color: #fff;
+}
+.parent .col:hover .icon2{
+    color: #fff;
+}
+.parent .col2, .col3{
+    margin-left: 1.5%;
+}
+.col .p1{
+    color: rgb(10, 10, 73);
+    /* margin-top: 25px; */
+    text-align: right;
+    font-size: 25px;
+    word-spacing: 5px;
+}
+.line{
+    color: rgb(27, 27, 129);
+    background-color: rgb(223, 219, 219);
+    text-align: center;
+}
+.services{
+    height: 770px;
+    background-color: rgb(223, 219, 219);
+    /* padding-right: 30px; */
+}
+.services .h2{
+    font-size: 30px;
+    color: rgb(27, 27, 129);
+    text-align: center;
+    text-decoration: underline;
+}
+.services .div{
+    margin: 40px;
+}
+.services .div .head{
+    font-size: 25px;
+    color: rgb(27, 27, 129);
+    margin-bottom: 5px;
+    text-align: center;
+}
+.dservices{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.dservices .img{
+    width: 400px; 
+    height: 250px;
+}
+img:hover{
+    opacity: 0.5;
+}
+.Location{
+    background-color: rgb(223, 219, 219);
+}
+.Location .head2{
+    /* margin-top: 20px; */
+    font-size: 30px;
+    color: rgb(27, 27, 129);
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 15px;
+}
+.footer .background{
+    width: 100%;
+    height: 400px;
+    background: #000 url(../img/6Ci67.jpeg) center center no-repeat;
+    background-size: cover;
+}
+.footer .back{
+    background-color: rgba(102, 101, 101,0.9);
+    width: 100%;
+    height: 400px;
+    padding: 50px;
+    /* padding-right: 100px; */
+    display: flex;
+    flex-direction: row-reverse;
+    /* justify-content: space-around; */
+    justify-content: space-between;
+    /* justify-content: center; */
+}
+.footer .end{
+    background-color: #000;
+    width: 100%;
+    height: 30px;
+    padding-top: 2px;
+}
+.footer .end .end1{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    word-spacing: 10px;
+}
+.footer .background .back .backend{
+    direction: rtl;
+    margin-left: 100px;
+    margin-right: 120px;
+}
+.footer .background .back .content{
+    direction: rtl;
+    margin-left: 100px;
+}
+.footer .background .back .contactus{
+    direction: rtl;
+}
+.footer .background .back .backend .hh{
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+.footer .background .back .hh{
+    color: #fff;
+    font-size: 30px;
+}
+.footer .background .back .contactus .hh{
+    margin-bottom: 32px;
+}
+.footer .background .back .backend .pp{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.footer .background .back .backend .face, .insta, .twitt{
+    color: #fff;
+    font-size: 25px;
+    margin: 10px;
+}
+.footer .background .back .backend .face:hover{
+    color: rgb(0, 4, 255);
+}
+.footer .background .back .backend .insta:hover
+{
+    color: #b23394;
+}
+.footer .background .back .backend .twitt:hover{
+    color: rgb(113, 152, 245);
+}
+.content .list{
+    color: #fff;
+    font-size:  18px;
+    /* margin: 10px; */
+}
+.content .list li{
+    margin: 8px;
+}
+.content .list li:hover{
+    color: #000;
+}
+.contactus .text{
+    width: 72%;
+    height: 40px;
+    font-size: 18px;
+    padding-right: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 2px solid #000;
+}
+.contactus .text:focus{
+    outline: none;
+    border: 3px solid rgb(17, 17, 146);
+}
+.contactus .textarea{
+    width: 72%;
+    height: 80px;
+    font-size: 18px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: 2px solid #000;
+}
+.contactus .textarea:focus{
+    outline: none;
+    border: 3px solid rgb(17, 17, 146);
+}
+.contactus .btn{
+    width: 72%;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 2px solid #000;
+}
+.contactus .btn:hover{
+    color: #fff;
+    background-color: rgb(17, 17, 146);
+    border: 3px solid #fff;
+}
