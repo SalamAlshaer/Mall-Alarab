@@ -7,4 +7,4 @@
 * Services
 * Site
 * Footer
-![](img/Icon-pictures.png)
+![](img/6Ci67.jpeg)
