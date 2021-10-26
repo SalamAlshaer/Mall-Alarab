@@ -8,8 +8,8 @@
 * Site
 * Footer
 ## Skills :writing_hand:
-* html
-* css
+* html 
+* css 
 ## Visit site :point_down:
 [Click Here](https://salamalshaer.github.io/project/) 
 
