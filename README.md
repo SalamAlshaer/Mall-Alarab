@@ -7,12 +7,10 @@
 * Services
 * Site
 * Footer
-## Language
+## Skills
 * html
 * css
 ## Visit site
-[](https://salamalshaer.github.io/project/)
-
-##image:
+[click here](https://salamalshaer.github.io/project/)
 
 ![](img/6Ci67.jpeg)
