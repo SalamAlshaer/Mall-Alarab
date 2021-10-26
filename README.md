@@ -1,5 +1,5 @@
 # project
-## Hi it's my first project
+## Hi it's my first project :star_struck:
 ### content
 * Header
 * Home
@@ -7,11 +7,11 @@
 * Services
 * Site
 * Footer
-## Skills
+## Skills :writing_hand:
 * html
 * css
-## Visit site
-[Click Here](https://salamalshaer.github.io/project/)
+## Visit site :point_down:
+[Click Here](https://salamalshaer.github.io/project/) 
 
 
 ![](img/6Ci67.jpeg)
