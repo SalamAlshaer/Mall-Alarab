@@ -12,7 +12,7 @@ This project is the first project that I do, no matter how simple it is, but I f
 * html 
 * css 
 #### Visit Site :point_down:
-[Click Here](https://salamalshaer.github.io/project/) 
+[Click Here](https://salamalshaer.github.io/Mall-Alarab/) 
 
 
 ![](img/6Ci67.jpeg)
